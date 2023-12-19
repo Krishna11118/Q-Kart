@@ -1,0 +1,33 @@
+.footer {
+  height: 100%;
+  background-color: #042c22;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0px 10px 0px;
+}
+.footer-link {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 300;
+  margin: 0 1rem;
+}
+
+.footer-text {
+  color: #fff;
+  opacity: 0.5;
+  text-align: center;
+  font-weight: 300;
+  width: 100%;
+}
+.footer-social {
+  margin: 1rem 0;
+}
+
+
+@media screen and (min-width: 768px) {
+  .footer-text {
+    width: 40%;
+  }
+}

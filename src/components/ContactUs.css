@@ -1,0 +1,17 @@
+.contactUs {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+
+      }
+      
+.ContactForm{
+        background-color: #DCFFE4;
+      }
+  
+  .topic {
+    color: #007bff; /* Hig  hlight color, adjust as needed */
+    font-weight: bold;
+  }
