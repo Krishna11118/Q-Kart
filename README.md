@@ -1,57 +1,83 @@
 
-<div align="center"><h2>QKART FRONTEND</h2></div>
-<br>
-<div align="center"><img src="https://user-images.githubusercontent.com/109352268/219581303-41426827-4130-48a1-92f2-fcbf561cefae.gif" width="100%"></div>
-<br>
-
-
-
 <div align="center">
-  <h2><a  href="https://qkart-richhapal.netlify.app/">Live Preview 👉</a></h2>
-  <hr>
-  <P>USERNAME:--testuser</P>
-  <P>PASSWORD:--123456</P>
-  <hr>
- </div>
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://github.com/Krishna11118/Q-Kart-main/blob/master/example/logo.png" alt="Logo" width="70px" height="35px">
+  </a>
+</div>
+<br />
 
 
 
+**QKart**, your go-to online marketplace, provides a seamless shopping experience. With a user-friendly interface and a diverse range of products, QKart ensures secure transactions and responsive customer support. Explore our platform for convenient shopping, exclusive deals, and a commitment to your satisfaction.
+<br>
+<div align="start" style="margin-bottom: 50px;">
+    👉 Live Demo: <a href='https://q-kart-ecommerce.vercel.app/'>Live Demo</a>
+</div>
+<br>
+
+<div align="center" ><img src="https://github.com/Krishna11118/Q-Kart-main/blob/master/example/qkartGif.gif" width="100%"></div>
+<br>
 
 <div >
 <h3>👨‍💻Technologies Used</h3>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-<img src="https://img.shields.io/badge/restapi-20442A?style=for-the-badge&logo=restapi&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </br>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> </br>
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" /> </br>
+<img src="https://img.shields.io/badge/restapi-20442A?style=for-the-badge&logo=restapi&logoColor=61DAFB" /> </br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> </br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </br>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> </br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> </br>
+<img src="https://img.shields.io/badge/NeDB-8BBE3C?style=for-the-badge&logo=nedb&logoColor=white" />
+
 </div>
 
-<br>
-<div>
-<h3>🚀 Features</h3>
-<ol>
-<li>Responsive Design To Support All Screen</li>
-<li>User Login,Registration and Logout Functionality</li>
-<li>Search Functionality To Find Product Directly</li>
-<li>Used Local Storage To Save User Name and User Tokens</li>
-</ol>
-</div>
+## Note From Developer
 
-<hr>
+Welcome to **QKart’s frontend!** The QKart frontend is built using React.js and MaterialUI majorly. This Project has the **features** like:
+
+* Authentication
+* Dynamic product listing
+* Search
+* Shopping cart
+* Checkout process
+
+During the course of development journey,I have learnt and apply these **skills in React**:
+
+* State manipulation and Props
+* Components - Stateless and Stateful
+* React lifecycle methods
+* Routing
+* Data binding
+* Debouncing
+* Conditional rendering
+## The QKart website will include these pages:
+
+#### 1. Register and Login Pages - 
+QKart allows its customers to register and login.
+
+* Users can register on the QKart website by visiting the Register page
+* They can then login to the website by entering the username and password set during the registration
+* Only logged in users can buy products
 
 <h2>1.Home Page</h2>
-<img src="https://user-images.githubusercontent.com/109352268/219589097-cbe4fce5-f2fd-41f1-9616-68b8595cbb5c.png"  />
+<img src="https://github.com/Krishna11118/Q-Kart-main/blob/master/example/HomePage.png"  />
 
 <h2>2.Login Page</h2>
-<img src="https://user-images.githubusercontent.com/109352268/219589302-3ea239e6-a601-4a6c-ae68-ac1523636442.png"  />
+<img src="https://github.com/Krishna11118/Q-Kart-main/blob/master/example/loginPage.png"  />
 
 <h2>3.Registration Page</h2>
-<img src="https://user-images.githubusercontent.com/109352268/219589432-c9c5b0e6-050f-4386-b294-32e472d90739.png"  />
+<img src="https://github.com/Krishna11118/Q-Kart-main/blob/master/example/registerPage.png"  />
 
-<h2>3.Cart Checkout Page</h2>
-<img src="https://user-images.githubusercontent.com/109352268/219589545-2cd5a420-030f-48f9-bd36-d6458b7d457e.png"  />
+
+<h2>4.Cart Stack</h2>
+<img src="https://github.com/Krishna11118/Q-Kart-main/blob/master/example/Cart.png"  />
+
+<h2>5.Cart Checkout Page</h2>
+<img src="https://github.com/Krishna11118/Q-Kart-main/blob/master/example/checkoutPage.png"  />
+
+<h2>6.Cart Checkout Page</h2>
+<img src="https://github.com/Krishna11118/Q-Kart-main/blob/master/example/checkoutPage.png"  />
 
 <hr>
 
