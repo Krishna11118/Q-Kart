@@ -84,6 +84,47 @@ QKart allows its customers to register and login.
 <hr>
 
 
+<!-- CONTRIBUTING -->
+## Contributing
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+
+Don't forget to give the project a star! <img src="https://res.cloudinary.com/dvjnxuxxj/image/upload/v1687024365/Readme_Trekki/Readme2/43154-removebg-preview_gellpu.png" width="20" height="20"> Thanks again!
+
+<!-- CONTACT -->
+## Contact
+
+Krishna - [@Whatsapp](https://wa.me/+917318378893) - krishnassss365@gmail.com - [@LinkedIn](https://www.linkedin.com/in/krishna365/)
+
+Project Link: [https://github.com/Krishna11118/Trekki.git](https://github.com/Krishna11118/Trekki.git)
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [Icon8 ](https://icons8.com/)
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+
+<hr>
+
+<!-- <LICENSE> -->
+## License
+
+* Completely free (MIT)! See LICENSE.md for more. [License ](https://github.com/Krishna11118/Trekki/blob/master/LICENSE)
+
+
+
+
 
 
 
