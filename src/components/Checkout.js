@@ -278,7 +278,7 @@ const Checkout = () => {
 
       //finally redirecting to the thanks page
       history("/thanks");
-    } catch (e) {
+    } catch (e) { 
       if (e.response) {
         enqueueSnackbar(e.response.data.message, { variant: "error" });
       } else {
