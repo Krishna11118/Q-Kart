@@ -61,16 +61,23 @@ QKart allows its customers to register and login.
 * Only logged in users can buy products
 
 <h2>1.Home Page</h2>
-<img src="https://user-images.githubusercontent.com/109352268/219589097-cbe4fce5-f2fd-41f1-9616-68b8595cbb5c.png"  />
+<img src="https://github.com/Krishna11118/Q-Kart-main/blob/master/example/HomePage.png"  />
 
 <h2>2.Login Page</h2>
-<img src="https://user-images.githubusercontent.com/109352268/219589302-3ea239e6-a601-4a6c-ae68-ac1523636442.png"  />
+<img src="https://github.com/Krishna11118/Q-Kart-main/blob/master/example/loginPage.png"  />
 
 <h2>3.Registration Page</h2>
-<img src="https://user-images.githubusercontent.com/109352268/219589432-c9c5b0e6-050f-4386-b294-32e472d90739.png"  />
+<img src="https://github.com/Krishna11118/Q-Kart-main/blob/master/example/registerPage.png"  />
 
-<h2>3.Cart Checkout Page</h2>
-<img src="https://user-images.githubusercontent.com/109352268/219589545-2cd5a420-030f-48f9-bd36-d6458b7d457e.png"  />
+
+<h2>4.Cart Stack</h2>
+<img src="https://github.com/Krishna11118/Q-Kart-main/blob/master/example/Cart.png"  />
+
+<h2>5.Cart Checkout Page</h2>
+<img src="https://github.com/Krishna11118/Q-Kart-main/blob/master/example/checkoutPage.png"  />
+
+<h2>6.Cart Checkout Page</h2>
+<img src="https://github.com/Krishna11118/Q-Kart-main/blob/master/example/checkoutPage.png"  />
 
 <hr>
 
