@@ -76,9 +76,11 @@ QKart allows its customers to register and login.
 <h2>5.Cart Checkout Page</h2>
 <img src="https://github.com/Krishna11118/Q-Kart-main/blob/master/example/checkoutPage.png"  />
 
-<h2>6.Cart Checkout Page</h2>
-<img src="https://github.com/Krishna11118/Q-Kart-main/blob/master/example/checkoutPage.png"  />
+<h2>6.Payment Page</h2>
+<img src="https://github.com/Krishna11118/Q-Kart-main/blob/master/example/paymentPage.png"  />
 
+<h2>7.Cart Checkout Page</h2>
+<img src="https://github.com/Krishna11118/Q-Kart-main/blob/master/example/thanks.png"  />
 <hr>
 
 
