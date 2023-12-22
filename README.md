@@ -96,11 +96,11 @@ Don't forget to give the project a star! <img src="https://res.cloudinary.com/dv
 
 Krishna - [@Whatsapp](https://wa.me/+917318378893) - krishnassss365@gmail.com - [@LinkedIn](https://www.linkedin.com/in/krishna365/)
 
-Project Link: [https://github.com/Krishna11118/Trekki.git](https://github.com/Krishna11118/Trekki.git)
+Project Link: [https://github.com/Krishna11118/Trekki.git](https://github.com/Krishna11118/Q-Kart)
 
 
 
-<!-- ACKNOWLEDGMENTS -->
+<!-- ACKNOWLEDGMENTS -->  N
 ## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
