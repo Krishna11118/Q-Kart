@@ -1,17 +1,14 @@
 
-<div align="center"><h2>QKART FRONTEND</h2></div>
+<div align="center"><h2>QKART</h2></div>
 <br>
-<div align="center"><img src="https://user-images.githubusercontent.com/109352268/219581303-41426827-4130-48a1-92f2-fcbf561cefae.gif" width="100%"></div>
+<div align="center"><img src="https://github.com/Krishna11118/Q-Kart-main/blob/master/example/qkartGif.gif" width="100%"></div>
 <br>
 
 
 
-<div align="center">
-  <h2><a  href="https://qkart-richhapal.netlify.app/">Live Preview 👉</a></h2>
-  <hr>
-  <P>USERNAME:--testuser</P>
-  <P>PASSWORD:--123456</P>
-  <hr>
+<div align="start">
+👉 Live Demo: <a href='https://q-kart-ecommerce.vercel.app/' style="margin-bottom:10px" >Live Demo</a>
+  
  </div>
 
 
